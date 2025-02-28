@@ -1,0 +1,1 @@
+# Alergy_dedection-app
